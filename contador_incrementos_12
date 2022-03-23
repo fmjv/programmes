@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main(void){
+    // Your code here!
+    for (int k=1405; k <= 2026; k+=12)    //el contador k tiene incrementos de 12
+    {
+        cout<<" "<<k;             //realizamos la suma de los elementos
+    }
+}
